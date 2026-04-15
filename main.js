@@ -57,7 +57,7 @@
     // INSTRUCTIONS: Replace 'YOUR_FORMSPREE_ID' below with your real Formspree endpoint ID
     // Get yours free at: https://formspree.io → Create account → New Form → Copy the ID
     // Example: if your endpoint is https://formspree.io/f/xpzgkwdo, your ID is xpzgkwdo
-    const FORMSPREE_ID = 'YOUR_FORMSPREE_ID'; // ← REPLACE THIS
+    const FORMSPREE_ID = 'mrereyey'; // ← REPLACE THIS
 
     async function submitForm() {
       const btn = document.getElementById('submitBtn');
